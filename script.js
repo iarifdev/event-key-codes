@@ -15,5 +15,5 @@ insert.innerHTML = `
         ${event.code}
         <small>event.code</small>
     </div>
-`
-})
+`;
+});
